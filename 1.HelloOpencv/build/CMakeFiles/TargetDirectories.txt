@@ -1,0 +1,3 @@
+/Users/zwy/CppProject/1.HelloOpencv/build/CMakeFiles/rebuild_cache.dir
+/Users/zwy/CppProject/1.HelloOpencv/build/CMakeFiles/edit_cache.dir
+/Users/zwy/CppProject/1.HelloOpencv/build/CMakeFiles/1_HelloOpencv.dir

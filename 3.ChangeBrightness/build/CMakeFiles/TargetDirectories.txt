@@ -1,0 +1,3 @@
+/Users/zwy/CppProject/3.ChangeBrightness/build/CMakeFiles/rebuild_cache.dir
+/Users/zwy/CppProject/3.ChangeBrightness/build/CMakeFiles/edit_cache.dir
+/Users/zwy/CppProject/3.ChangeBrightness/build/CMakeFiles/3_ChangeBrightness.dir
