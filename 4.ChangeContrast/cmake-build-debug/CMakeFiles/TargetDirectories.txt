@@ -1,3 +1,0 @@
-/Users/zwy/CppProject/4.ChangeContrast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/zwy/CppProject/4.ChangeContrast/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zwy/CppProject/4.ChangeContrast/cmake-build-debug/CMakeFiles/4_ChangeContrast.dir
