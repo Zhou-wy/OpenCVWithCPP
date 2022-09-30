@@ -1,0 +1,8 @@
+//
+// Created by zhouwy on 2022/2/22.
+//
+
+#ifndef INC_6_CLASSINTERFACE_TPERSON_H
+#define INC_6_CLASSINTERFACE_TPERSON_H
+
+#endif //INC_6_CLASSINTERFACE_TPERSON_H

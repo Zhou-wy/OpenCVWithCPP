@@ -1,0 +1,8 @@
+//
+// Created by zhouwy on 2022/2/22.
+//
+
+#ifndef INC_5_ABSTRACTDATA_TINTSTACK_H
+#define INC_5_ABSTRACTDATA_TINTSTACK_H
+
+#endif //INC_5_ABSTRACTDATA_TINTSTACK_H
